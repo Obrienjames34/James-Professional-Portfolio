@@ -1,5 +1,14 @@
 # James-Professional-Portfolio
 
-## This is a sub Heading created localy
+##  Purpose
 
-All of this content added to the README file has been added from my local repository
+Build a website that contanies all of your repos, resume, contact info and a little about yourself.
+
+## Built with 
+* HTML
+* CSS
+
+
+## Website 
+
+
